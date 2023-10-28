@@ -37,4 +37,10 @@ body {
 .footer {
   background-color: rgb(99, 56, 240);
   min-height: 150px;
+  padding-left: 20px;
+  font-family: sans-serif;
+  color: #ffff;
+}
+.footer a{
+  color: rgb(28, 37, 57);
 }
