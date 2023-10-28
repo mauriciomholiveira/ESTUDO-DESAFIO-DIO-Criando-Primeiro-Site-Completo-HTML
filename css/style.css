@@ -11,7 +11,7 @@ body {
   width: 1200px;
   display: flex;
   margin: 0 auto;
-  background-color: aquamarine;
+  background-color:rgb(5, 108, 108);
 }
 .main {
   display: flex;
@@ -20,15 +20,17 @@ body {
 }
 .menu {
   width: 15%;
-  background-color: aqua;
+  background-color: hsl(180, 52%, 57%);
   padding: 10px 20px 0px;
 }
 .header {
+  display: block;
+  margin: 0 auto;
   background-color: rgb(5, 108, 108);
   min-height: 150px;
 }
 .content {
-  background-color: white;
+  background-color: rgb(5, 108, 108);
   min-height: 300px;
   padding: 20px;
 }
