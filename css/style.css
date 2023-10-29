@@ -37,7 +37,7 @@ body {
   border-top: 1px solid;
 }
 .footer {
-  background-color: rgb(99, 56, 240);
+  background-color: rgb(15, 79, 58);
   min-height: 150px;
   padding-left: 20px;
   font-family: sans-serif;
@@ -57,4 +57,10 @@ td {
   border: 1px solid black;
   text-align: center;
   padding: 5px;
+}
+
+
+form{
+  width: 60%;
+  margin: 0 auto;
 }
